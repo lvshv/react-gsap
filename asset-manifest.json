@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gsap/static/css/main.d404ce31.chunk.css",
+    "main.js": "/react-gsap/static/js/main.67e2e005.chunk.js",
+    "main.js.map": "/react-gsap/static/js/main.67e2e005.chunk.js.map",
+    "runtime-main.js": "/react-gsap/static/js/runtime-main.d6f95881.js",
+    "runtime-main.js.map": "/react-gsap/static/js/runtime-main.d6f95881.js.map",
+    "static/js/2.01c1ac1f.chunk.js": "/react-gsap/static/js/2.01c1ac1f.chunk.js",
+    "static/js/2.01c1ac1f.chunk.js.map": "/react-gsap/static/js/2.01c1ac1f.chunk.js.map",
+    "index.html": "/react-gsap/index.html",
+    "static/css/main.d404ce31.chunk.css.map": "/react-gsap/static/css/main.d404ce31.chunk.css.map",
+    "static/js/2.01c1ac1f.chunk.js.LICENSE.txt": "/react-gsap/static/js/2.01c1ac1f.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.73edd4dd.svg": "/react-gsap/static/media/arrow-right.73edd4dd.svg",
+    "static/media/men1.2f8aa572.jpg": "/react-gsap/static/media/men1.2f8aa572.jpg",
+    "static/media/men2.7db5761e.jpg": "/react-gsap/static/media/men2.7db5761e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6f95881.js",
+    "static/js/2.01c1ac1f.chunk.js",
+    "static/css/main.d404ce31.chunk.css",
+    "static/js/main.67e2e005.chunk.js"
+  ]
+}
